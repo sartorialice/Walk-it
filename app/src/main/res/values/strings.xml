@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Walk-It</string>
+    <string name="misura_battito">Adesso misura il tuo battito</string>
+    <string name="home">TORNA ALLA HOME</string>
+    <string name="walk_it">Walk-It</string>
+    <string name="nome_sfida">nome sfida</string>
+    <string name="passi_totali_sfida">passi totali sfida</string>
+    <string name="time_totale_sfida">time totale sfida</string>
+    <string name="num_passi">numero passi:</string>
+    <string name="timer">Timer</string>
+    <string name="start">START</string>
+    <string name="termina">Termina</string>
+    <string name="conferma">Conferma</string>
+    <string name="secondi_sfida">Secondi sfida</string>
+    <string name="numero_passi">numero passi</string>
+    <string name="inserisci_sfida">Inserisci la tua sfida:</string>
+    <string name="walk_it_frase">FACCIAMO UNA CAMMINATA</string>
+    <string name="sfida1">Sfida1</string>
+    <string name="Start_1">Inizia Sfida 1</string>
+    <string name="storico_1">Storico Sfida 1</string>
+    <string name="sfida2">Sfida2</string>
+    <string name="start_2">Inizia Sfida 2</string>
+    <string name="storico_2">Storico Sfida 2</string>
+    <string name="sfida3">Sfida3</string>
+    <string name="start_3">Inizia Sfida 3</string>
+    <string name="storico_3">Storico Sfida 3</string>
+    <string name="sfida4">Sfida4</string>
+    <string name="start_4">Inizia Sfida 4</string>
+    <string name="storico_4">Storico Sfida 4</string>
+    <string name="sfida5">Sfida5</string>
+    <string name="start_5">Inizia Sfida 5</string>
+    <string name="storico_5">Storico Sfida 5</string>
+    <string name="pers_sfida">Sfida personalizzata</string>
+    <string name="crea_una_sfida_adatta_a_te">Crea una sfida adatta a te!</string>
+    <string name="personalizza_sfida">Personalizza sfida</string>
+    <string name="testo_battito">Tieni traccia della tua frequenza cardiaca</string>
+    <string name="bottone_battito">Misura Battito</string>
+    <string name="permesso_activity">Request Activity Permission</string>
+    <string name="permesso_battito">Request Heart beat Permission</string>
+    <string name="storico">Storico</string>
+    <color name="blue">#2883de</color>
+
+</resources>

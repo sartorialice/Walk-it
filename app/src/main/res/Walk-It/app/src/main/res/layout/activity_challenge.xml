@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".Challenge">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Walk-It"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:id="@+id/tvNomeSfida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="nome sfida"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/tvPassiSfida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="passi totali sfida"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:id="@+id/tvTimeSfida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="time totale sfida"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="numero passi:"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tvNumPassi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Timer"
+        />
+
+    <TextView
+        android:id="@+id/countDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10:00"
+        android:textSize="20dp"
+        />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="START"
+        />
+
+    <Button
+        android:id="@+id/bttTermina"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Termina"
+        />
+
+
+</LinearLayout>
